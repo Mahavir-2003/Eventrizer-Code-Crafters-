@@ -1,0 +1,37 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header img{
+    padding : 15px;
+    width: 15%;
+}
+
+.addEvent{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 5px 10px;
+    margin-top: 20px;
+    margin-right: 3%;
+    height: 40px;
+    border-radius:5px;
+    background-color: #00ed64;
+    border: 1px solid #303030;
+    color: #303030;
+    font-size: 1.5rem;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+.addEvent:hover{
+    cursor: pointer;
+    opacity: 1;
+    transform: scale(1.03);
+}
