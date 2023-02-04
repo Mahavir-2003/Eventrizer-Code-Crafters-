@@ -1,6 +1,8 @@
 # Eventrizer
 > Bring event planning to your fingertips
 
+![Image description](https://github.com/Mahavir-2003/Eventrizer-Code-Crafters-/blob/main/Cover%20Page.jpg)
+
 
 ##### This website offers a comprehensive solution for event organizers to streamline their work and increase efficiency. With a focus on both event organizers and small businesses, the platform provides opportunities for growth and monetization. By utilizing this website, event organizers can improve their work process and small sellers can expand their business online and generate revenue. 
 
