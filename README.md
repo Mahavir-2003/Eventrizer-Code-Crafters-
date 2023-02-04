@@ -1,49 +1,70 @@
-# Eventrizer
-> Bring event planning to your fingertips
+# Getting Started with Create React App
 
-![Image description](https://github.com/Mahavir-2003/Eventrizer-Code-Crafters-/blob/main/Cover%20Page.jpg)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-##### This website offers a comprehensive solution for event organizers to streamline their work and increase efficiency. With a focus on both event organizers and small businesses, the platform provides opportunities for growth and monetization. By utilizing this website, event organizers can improve their work process and small sellers can expand their business online and generate revenue. 
+In the project directory, you can run:
 
-- ###### Ability to efficiently plan and execute well-organized events in a short period of time
-- ###### All necessary facilities conveniently available in one place
-- ###### Seamless event organization at your fingertips
+### `npm start`
 
-# Anticipated Features
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- ###### The platform allows event managers to contact sellers of their choice to meet their specific needs
-- ###### Upon logging in, event managers can create events based on their preferences and priorities
-- ###### Registered sellers will receive event notifications
-- ###### Event managers have the ability to review and select the most suitable sellers based on their convenience
-- ###### Event managers are provided with the contact information of selected sellers for further communication.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-# Our Vision
-- ###### The objective is to provide employment opportunities for small sellers
-- ###### The platform serves as a valuable resource for small sellers
-- ###### Event organizers can also generate revenue through the platform by utilizing a wide range of options
-- ###### The website serves as a foundation for small self-employed sellers, providing them with empowerment
-- ###### The platform offers a boost for small sellers to establish a presence online and generate income with minimal advertising efforts.
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-# Tech stack utilized :
+### `npm run build`
 
-#### Frontend Technologies
-- ##### HTML
-- ##### CSS
-- ##### JavaScript   
-- ##### React.js
-- ##### Redux Toolkit
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-#### Backend Technologies
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- ##### MongoDB
-- ##### Node.js
-- ##### Express.js   
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
- 
+### `npm run eject`
 
-# Upcoming
-> In the future, this app is poised to be a valuable resource for sellers, providing them with a platform to expand their business. This presents a great opportunity for business growth. Additionally, event organizers will benefit from the platform as it enables easy communication with sellers and offers a wide range of options for selection. This ultimately leads to better event planning and budgeting, resulting in increased revenue. Furthermore, the platform enables efficient and timely organization of even large-scale events.
-...
-###### We hope that this project will prove to be useful and effective in meeting the needs of event organizers and small business owners. We are always looking for ways to improve and welcome your feedback. Thank you for taking the time to review our project and we hope to hear from you soon.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
